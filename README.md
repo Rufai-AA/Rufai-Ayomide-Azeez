@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kraaz00
+- 👋 Hi, I’m Rufai Ayomide Azeez
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning data analysis and visualization using sql, excel, python and tableau
 - 💞️ I’m looking to collaborate on some basic projects from veterans
